@@ -1,5 +1,5 @@
 {
-  "name": "upc-components",
+  "name": "upc-components-dev",
   "version": "1.0.0",
   "description": "",
   "main": "dist/upc-components.ssr.js",
