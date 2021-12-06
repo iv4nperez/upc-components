@@ -5,6 +5,7 @@
   "license": "MIT",
   "description": "",
   "main": "dist/upc-components.ssr.js",
+  "author": "",
   "repository": {
     "url": "https://github.com/iv4nperez/upc-components",
     "type": "git"
