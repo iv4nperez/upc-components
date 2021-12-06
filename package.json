@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/upc-components.ssr.js",
+  "repository": {
+    "url": "https://github.com/iv4nperez/upc-components",
+    "type": "git"
+  },
   "browser": "dist/upc-components.esm.js",
   "module": "dist/upc-components.esm.js",
   "unpkg": "dist/upc-components.min.js",
