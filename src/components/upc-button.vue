@@ -1,7 +1,7 @@
 <template>
     <button :style="`background-color: ${ background }`">
         <span
-            :style="`color: ${colorText}`"
+            :style="`color: ${colorText};font-size:16px`"
         >{{ title }}</span>
     </button>
 </template>
