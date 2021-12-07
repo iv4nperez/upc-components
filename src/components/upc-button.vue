@@ -2,7 +2,7 @@
     <button :style="`background-color: ${ background }`">
         <span
             :style="`color: ${colorText};font-size:16px`"
-        >{{ title }}</span>
+        >{{ upperCase ? title.toUpperCase() : title }}</span>
     </button>
 </template>
 
@@ -22,6 +22,10 @@ export default {
         colorText: {
             type: String,
             default: '#000'
+        },
+        upperCase:{
+            type: Boolean,
+            default: false
         }
     },
     setup(){
