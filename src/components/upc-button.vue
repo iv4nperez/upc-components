@@ -7,6 +7,7 @@
 </template>
 
 <script>
+//comnetario
 export default {
     name:'upcbutton',
     props:{
