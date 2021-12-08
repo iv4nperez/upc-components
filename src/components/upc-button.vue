@@ -26,6 +26,10 @@ export default {
         upperCase:{
             type: Boolean,
             default: false
+        },
+        only: {
+            type: Boolean,
+            default: false
         }
     },
     setup(){

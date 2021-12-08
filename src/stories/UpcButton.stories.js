@@ -1,6 +1,5 @@
 import UpcButton from '../components/upc-button.vue'
 
-
 export default {
     title: 'UI/UpcButton',
     component: UpcButton,
